@@ -1,6 +1,5 @@
 ### Hey there, <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm a Software developer who is always wanted to explore the things, I have clear understanding of Data structures. I enjoy working in Python, Django, Bootstrap, HTML, CSS. Recently, I have started learning React.
 
-## Ping me, If you're thinking to, I'll assure you i'll get your work done.
 
 ## I'm a part time Developer, Full-time Learner!!
 
@@ -37,3 +36,6 @@
   <img align="left" alt="Aman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amankumar0199&show_icons=true&hide_border=true" />
 
 </details>
+
+
+## Ping me, If you're thinking to, I'll assure you i'll get your work done.
