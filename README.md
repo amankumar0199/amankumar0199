@@ -1,4 +1,4 @@
-### Hey there, <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm a Software developer who is always wanted to explore the things, I have clear understanding of Data structures. I enjoy working in Python, Django, Bootstrap, HTML, CSS. Recently, I have started learning React.
+### Hey there, <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm a Software developer who is always wanted to explore the things, I have clear understanding of Data structures. I enjoy working in Python, Django, Bootstrap, HTML, CSS.
 
 
 ## I'm a part time Developer, Full-time Learner!!
