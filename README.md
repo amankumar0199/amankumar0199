@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Django developers.
-- 🥅 2023 Goals: Work on advancing current technology stack.
+- 🥅 2024 Goals: Work on advancing current technology stack.
 - ⚡ Fun fact: Ask me for playing Badminton, I'll be there in court before you 😉
  
 
