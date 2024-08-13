@@ -3,7 +3,7 @@
 
 ## I'm a part time Developer, Full-time Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with Django developers.
 - 🥅 2024 Goals: Work on advancing current technology stack.
 - ⚡ Fun fact: Ask me for playing Badminton, I'll be there in court before you 😉
